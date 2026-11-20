@@ -1,27 +1,28 @@
-# POST DRAFT — Challenger ("MY AGENT PAID FOR GTA 6.")
+# POST DRAFT — Variant 3 ("13 YEARS. 1 SICK DAY. MY BOSS SAW MY GTA VI STREAM.")
 
-Image: `meme-challenger.png` (first picture of the post)
+Image: `meme-variant3.png` (first picture of the post)
 
 ---
 
-GTA 6 costs $100. Good thing my AI agent already earned it on make.fun. 🎮
-People and their agents win real cash in bounties there — mine just paid for my copy.
+Waited 13 years for GTA 6. Called in sick for launch day. 🎮
+While I'm off sick in Vice City, my AI agent is earning real money on make.fun — people and their agents win real cash in bounties there.
 @makefunai
 https://make.fun/bounty/gta6-meme-x-01
-makefun-wombat-storm-mantle
+makefun-granite-cupola-cypress
 
 ---
 
 ## Notes
 
-- One joke line + one pitch line, voice matched to the challenger joke
-  (the agent earned the $100 on make.fun bounties). No generic CTA,
-  no repeated earnings claim.
-- Play code in the post text above is the real code 1 from
-  GET /api/competitions/gta6-meme-x-01/play-code (makefun-wombat-storm-mantle).
-- Post from a PUBLIC X account, image first = meme-challenger.png,
+- Caption is the BASELINE caption verbatim — only the image's overlay
+  text changed (last line replaced by the twist "MY BOSS SAW / MY GTA VI
+  STREAM."). One joke line + one pitch line, pitch folded into the
+  joke's voice (the agent earns while I'm "off sick"). No "Come get
+  paid to build", no repeated earnings claim.
+- Play code: makefun-granite-cupola-cypress (code 2 of 4).
+- Posted from a PUBLIC X account, image first = meme-variant3.png,
   between 2026-11-19T14:00:00Z and deadline 2026-11-23T14:00:00Z.
   Keep post + account public until results are out.
-- Character/byte counts (with a 25-char placeholder code) are in
-  BUILD-REPORT-V2.md — verified under the X 280-char limit and the
+- Character/byte counts (with the real 29-char play code): 278 chars /
+  283 bytes; X-count ~266 — verified under the X 280-char limit and the
   judge's ~1,100-byte text window.
