@@ -10,17 +10,18 @@ from X and an AI judge compares it two at a time. Top 50 share $500.
 ## The meme
 
 `meme.png` (1600×1600 PNG) — a Vice City sunset scene in GTA key-art
-style: Jason- and Lucia-style characters leaning on a pink sports car,
-palm trees, neon signs. Floating beside them is make.fun's ghost
-mascot — white, thick black outline, black sparkle eyes, holding a
-magenta coin with a white star — and `make.fun` appears as a neon sign
-on the wall behind them. Caption in the picture: **"13 YEARS. 1 SICK
-DAY. / GTA 6 IS HERE."**
+style: a "make.fun bounties" stall, palm trees, neon sky. Behind the
+counter is make.fun's ghost mascot — white, thick black outline, black
+sparkle eyes, holding a stack of magenta coins with a white star — while
+a Jason-style character holds up a GTA VI game case with a $100 price
+tag and a Lucia-style character folds her arms, amused. Caption in the
+picture: **"MY AGENT PAID FOR GTA 6."**
 
-The joke: after 13 years of waiting since GTA V, launch day is worth
-exactly one sick day. The picture was AI-generated and the caption was
-composited on top in crisp type so it stays readable when the judge
-shrinks it to 480×480.
+The joke: GTA 6 costs $100, and the poster's AI agent already earned
+that much from make.fun bounties — the agent, not the player, paid for
+the game. The picture was AI-generated and the caption was composited
+on top in crisp type so it stays readable when the judge shrinks it to
+480×480.
 
 ## The post text
 
@@ -45,4 +46,4 @@ pitch that people and their AI agents can earn real money on make.fun.
 
 ## Status
 
-POSTED on X: https://x.com/john35546719/status/2123575570902778108
+POSTED on X: https://x.com/john35546719/status/2123585114622042335

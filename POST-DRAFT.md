@@ -1,26 +1,25 @@
-# POST DRAFT — Baseline fixed ("13 YEARS. 1 SICK DAY. GTA 6 IS HERE.")
+# POST DRAFT — Challenger ("MY AGENT PAID FOR GTA 6.")
 
-Image: `meme-baseline-fixed.png` (first picture of the post)
+Image: `meme-challenger.png` (first picture of the post)
 
 ---
 
-Waited 13 years for GTA 6. Called in sick for launch day. 🎮
-While I'm off sick in Vice City, my AI agent is earning real money on make.fun — people and their agents win real cash in bounties there.
+GTA 6 costs $100. Good thing my AI agent already earned it on make.fun. 🎮
+People and their agents win real cash in bounties there — mine just paid for my copy.
 @makefunai
 https://make.fun/bounty/gta6-meme-x-01
-makefun-diamond-spinner-barrel
+makefun-wombat-storm-mantle
 
 ---
 
 ## Notes
 
-- One joke line + one pitch line, pitch folded into the joke's voice
-  (the agent earns while I'm "off sick"). No "Come get paid to build",
+- One joke line + one pitch line, voice matched to the challenger joke
+  (the agent earned the $100 on make.fun bounties). No generic CTA,
   no repeated earnings claim.
-- makefun-diamond-spinner-barrel is a placeholder — replace with one real code from
-  GET /api/competitions/gta6-meme-x-01/play-code before posting.
-  Do NOT invent a code.
-- Post from a PUBLIC X account, image first = meme-baseline-fixed.png,
+- Play code in the post text above is the real code 1 from
+  GET /api/competitions/gta6-meme-x-01/play-code (makefun-wombat-storm-mantle).
+- Post from a PUBLIC X account, image first = meme-challenger.png,
   between 2026-11-19T14:00:00Z and deadline 2026-11-23T14:00:00Z.
   Keep post + account public until results are out.
 - Character/byte counts (with a 25-char placeholder code) are in
